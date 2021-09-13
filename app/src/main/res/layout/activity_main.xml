@@ -40,6 +40,7 @@
                 android:padding="5dp"
                 app:badge_draggable="true">
 
+
                 <com.example.badgeview.BGABadgeImageView
                     android:id="@+id/biv_main_normal"
                     style="@style/WrapWrap"
